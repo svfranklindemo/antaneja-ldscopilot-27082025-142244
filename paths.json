@@ -1,7 +1,19 @@
 {
-  "mappings": [
-    "/content/pbakliwal/eds-crosswalk-source/:/",
-    "/content/pbakliwal/eds-crosswalk-source/metadata.json:/metadata.json",
-    "/content/pbakliwal/eds-crosswalk-source/redirects.json:/redirects.json"
-  ]
+    "mappings": [
+      "/content/antaneja/8ea4288a-7da9-46fa-9d8f-d4311e3cbba3/:/",
+      "/content/antaneja/8ea4288a-7da9-46fa-9d8f-d4311e3cbba3/configuration:/.helix/config.json",
+      "/content/antaneja/8ea4288a-7da9-46fa-9d8f-d4311e3cbba3/metadata:/metadata.json",
+      "/content/antaneja/8ea4288a-7da9-46fa-9d8f-d4311e3cbba3/configs:/configs.json",
+      "/content/antaneja/8ea4288a-7da9-46fa-9d8f-d4311e3cbba3/configs-stage:/configs-stage.json",
+      "/content/antaneja/8ea4288a-7da9-46fa-9d8f-d4311e3cbba3/configs-dev:/configs-dev.json",
+      "/content/antaneja/8ea4288a-7da9-46fa-9d8f-d4311e3cbba3/redirects:/redirects.json",
+      "/content/antaneja/8ea4288a-7da9-46fa-9d8f-d4311e3cbba3/placeholders:/placeholders.json",
+      "/content/antaneja/8ea4288a-7da9-46fa-9d8f-d4311e3cbba3/products/recommended-products:/products/recommended-products.json",
+      "/content/antaneja/8ea4288a-7da9-46fa-9d8f-d4311e3cbba3/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/antaneja/8ea4288a-7da9-46fa-9d8f-d4311e3cbba3/images/products/:/images/products/"
+    ],
+    "includes": [
+      "/content/antaneja/8ea4288a-7da9-46fa-9d8f-d4311e3cbba3",
+      "/content/dam/citisignal/images/products/"
+    ]
 }
